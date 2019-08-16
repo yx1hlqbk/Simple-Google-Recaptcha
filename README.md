@@ -1,6 +1,7 @@
 # Simple-Recaptcha
 
 <h2>環境</h2>
+
 - php5以上
 - curl
 
